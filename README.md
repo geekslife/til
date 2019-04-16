@@ -1,8 +1,8 @@
 # Today I Leanred
 
-## [Spring](Spring.md)
+## [Spring](java/pring.md)
 
-## [Database](Database.md)
+## [Database](java/database.md)
 
 ## AWS
 
