@@ -10,6 +10,8 @@
 
 ## [Security](security.md)
 
+## [Spark](spark.md)
+
 ## AWS
 
 ### [Projects on AWS](https://aws.amazon.com/getting-started/projects/)
@@ -22,6 +24,10 @@
 ### Amazon RDS
 
 - [Amazon Aurora를 통한 고성능 데이터베이스 운용하기](https://www.youtube.com/watch?v=870L5VLgkj0)
+
+### Amazon Lambda
+
+- [Selenium and Headless Chrome on AWS Lambda Layers](https://hackernoon.com/running-selenium-and-headless-chrome-on-aws-lambda-layers-python-3-6-bd810503c6c3) : Lambda + Chrome + Python. 내가 찾던 구현체
 
 ### VPC
 
