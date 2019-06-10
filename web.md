@@ -1,5 +1,9 @@
 # Web
 
+## Media
+
+* [Media Capture & Record](https://developers.google.com/web/fundamentals/media/recording-audio/)
+
 ## [JSON Web Token(JWT)](https://blog.outsider.ne.kr/1160)
 
 * JSON 기반의 인증 토큰 규격
